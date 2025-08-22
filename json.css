@@ -1,0 +1,31 @@
+#ids{
+    text-align: center;
+}
+#id2{
+    text-align: center;
+}
+.main{
+    display: flex;
+    margin-left: 300px;
+}
+.main1{
+    display: flex;
+    margin-left: 300px;
+}
+.student-div{
+    width: 50%;
+    margin-top:20px;
+}
+.student-details{
+    width: 50%;
+    
+}
+#info{
+    width: 50%;
+    margin-left: 400px;
+}
+#contacts{
+    margin-top: 10px;
+    width:15%;
+    margin-left: 200px;
+}

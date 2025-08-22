@@ -1,0 +1,41 @@
+{
+    "school_name": "Dunder Miflin",
+    "class": "Year 1",
+    "info": {
+        "president": "Michael Scott",
+        "address": "Scranton, Pennsylvania",
+        "contacts": {
+            "email": "admin@e.com",
+            "tel": "123456789"
+        }
+    },
+    "students": [
+        {
+            "id": "A1",
+            "name": "Jim",
+            "grade": {
+                "math": 60,
+                "physics": 66,
+                "chemistry": 61
+            }
+        },
+        {
+            "id": "A2",
+            "name": "Dwight",
+            "grade": {
+                "math": 89,
+                "physics": 76,
+                "chemistry": 51
+            }
+        },
+        {
+            "id": "A3",
+            "name": "Kevin",
+            "grade": {
+                "math": 79,
+                "physics": 90,
+                "chemistry": 78
+            }
+        }
+    ]
+}
