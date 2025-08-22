@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    height: 100vh;
+    background-color: lavender;
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+}
+/* @media only screen and (max-width) {
+    .container{
+        margin:auto;
+        width: fit-content;
+        margin: auto;
+    
+    }
+} */
+@media all{
+    .container{
+        margin:auto;
+        width: fit-content;
+        margin: auto;
+    
+    }
+}
